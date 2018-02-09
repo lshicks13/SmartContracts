@@ -1,0 +1,25 @@
+Subtract 100 token from _from
+make a message call with the following information
+    Date/Time
+    Summary
+    Category
+    Risk
+    Description
+Event: Submission 
+Event verifire sends 50 tokens
+Verifier sumbits the verification 
+Add the tokens to _to
+    Verify Counter x3
+    Time\Date of Verification
+Event verifire sends 25 tokens
+ give access to the submission
+Verifier sumbits the verification 
+Add the tokens to _to
+    Verify Counter x3
+    Time\Date of Verification
+    Event verifire sends 10 tokens
+ give access to the submission
+Verifier sumbits the verification 
+Add the tokens to _to
+    Verify Counter x3
+    Time\Date of Verification
